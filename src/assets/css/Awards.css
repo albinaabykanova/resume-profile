@@ -1,0 +1,16 @@
+.title{
+    font-weight: 900;
+    font-family: "Saira Extra Condensed";
+    margin-bottom: 3rem;
+    font-size: 2.5rem;
+    line-height: 1.2s;
+}
+
+.fa-ul {
+    color: #6c757d ;
+ 
+}
+
+.done {
+   margin-left: 10px;
+}

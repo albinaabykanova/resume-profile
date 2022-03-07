@@ -1,0 +1,42 @@
+
+
+
+
+.text-date {
+     color: #bd5d38 ;
+}
+.mt-20{
+    margin-top: 20px!important;
+}
+
+.title{
+    font-weight: bold;
+    font-family: "Saira Extra Condensed","Segoe UI","Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+   
+}
+
+.caption{
+    font-size: 25px;
+    color: #343a40;
+    margin-bottom: 0 !important;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.caption-title{
+    color: #6c757d;
+    font-size: 20px;
+}
+
+.desc{
+    color: #6c757d;
+}
+
+.date{
+    color: #bd5d38 ; 
+    margin-left: 20px;
+}
+
+.experience-body {
+    min-height: 100vh;
+}

@@ -1,0 +1,54 @@
+.about-body{
+    width: 100%;
+    min-height: 100vh;
+}
+
+.name{
+    font-weight: bold;
+    font-size: 70px;
+    color:#343a40;
+}
+.surname{
+    font-weight: bold;
+    font-size: 70px;
+    color:#bd5d38;
+}
+
+.subheading{
+    font-size: 20px;
+    cursor:pointer;
+    text-transform: uppercase;
+    color: #6c757d !important;
+}
+
+.mail{
+   color: #bd5d38 !important;
+   font-size: 20px;
+   text-decoration: underline;
+}
+
+.social-media{
+    display: flex;
+}
+.social-icon {
+    font-size: 50px;
+    align-items: center; 
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 3.5rem;
+    width: 3.5rem;
+    background-color: #495057;
+    color: #fff;
+    border-radius: 100%;
+    font-size: 1.5rem;
+    margin-right: 1.5rem;
+}
+
+.social-icon:hover{
+     background:#bd5d38 !important;
+}
+
+
+

@@ -1,0 +1,25 @@
+.caption{
+    font-size: 25px;
+    color: #343a40;
+    margin-bottom: 0 !important;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.caption-title{
+    color: #6c757d;
+    font-size: 20px;
+}
+
+.desc{
+    color: #6c757d;
+}
+
+.date{
+    color: #bd5d38 ; 
+    margin-left: 20px;
+}
+ 
+.education-body {
+    min-height: 100vh;
+}
